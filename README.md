@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![]https://github.com/AndrewLamCS/CodePathIOS101/blob/main/IOS.gif
+![]IOS.gif
 
 GIF created with KAP
 
